@@ -1,0 +1,20 @@
+{
+  "name": "cpu-count",
+  "version": "1.0.0",
+  "description": "output number of CPUs",
+  "main": "index.js",
+  "bin": {
+    "cpu-count": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "count",
+    "number",
+    "of",
+    "CPU"
+  ],
+  "author": "Ronald Luitwieler",
+  "license": "ISC"
+}
