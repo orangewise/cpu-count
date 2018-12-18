@@ -16,5 +16,13 @@
     "CPU"
   ],
   "author": "Ronald Luitwieler",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orangewise/cpu-count.git"
+  },
+  "bugs": {
+    "url": "https://github.com/orangewise/cpu-count/issues"
+  },
+  "homepage": "https://github.com/orangewise/cpu-count#readme"
 }
